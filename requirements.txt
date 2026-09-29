@@ -1,0 +1,8 @@
+numpy
+pandas
+pyarrow          # parquet files written by the notebooks
+scikit-learn>=1.2
+matplotlib
+joblib
+kaggle           # download of the raw data in notebook 01
+jupyter
