@@ -1,4 +1,4 @@
-# raw data: never versioned (1.3 GB, and Kaggle's licence does not allow redistribution)
+# raw data: never versioned (1.3 GB, above GitHub's limits; downloaded by notebook 01)
 *.csv
 *.csv.gz
 *.zip
