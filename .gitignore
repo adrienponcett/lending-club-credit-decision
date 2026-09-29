@@ -1,0 +1,22 @@
+# raw data: never versioned (1.3 GB, and Kaggle's licence does not allow redistribution)
+*.csv
+*.csv.gz
+*.zip
+
+# regenerable artefacts (caches, fitted models, parquet files)
+artefacts/
+*.pkl
+*.parquet
+*.json.cache
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# notebooks
+.ipynb_checkpoints/
+
+# system
+.DS_Store
